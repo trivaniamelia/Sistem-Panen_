@@ -1,4 +1,4 @@
-def hitung_panen():
+def hitung_panen():m
     print("=== PROGRAM PENGHITUNG TOTAL HASIL PANEN ===")
 
     # Meminta input jumlah jenis komoditas
